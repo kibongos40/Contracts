@@ -35,7 +35,7 @@ We’re not responsible for writing or inputting any text copy. If you’d like 
 
 You should supply graphic files in an editable, vector digital format. You should supply photographs in a high resolution digital format. If you choose to buy stock photographs, we can suggest stock libraries. If you’d like us to search for photographs for you, we can provide a separate estimate for that.
 
-### HTML, CSS, PHP and Javascript
+### Coding Architecture
 
 We deliver code that matches our agreed scope. It's likely that Javascript and CSS will be minified just because that's the right way to serve content to the browser. This should be documented with the code provided so another developer can take it and reproduce the minification process. Like we said above, we're going to provide you valid code because anything else is just icky.
 
@@ -81,8 +81,6 @@ Then, when your final payment has cleared, copyright will be automatically assig
 
 You’ll own the visual elements that we create for this project. We’ll give you source files and finished files and you should keep them somewhere safe as we’re not required to keep a copy. You own all elements of text, images and data you provided, unless someone else owns them. 
 
-WordPress is GPL licensed which really means either of us can do whatever we want with the code written without asking the other person. Now of course it would just be plain stupid of me to give away your theme to anyone else and you'd look pretty dumb if you sold something as a turnkey solution without paying me something extra. I assume that neither of us like looking dumb so let's just agree to <strike>a cagematch</strike> be civil about it all.
-
 All of your business process is protected and neither of us will ever release any code/files that expose business processes of the other party.
 
 We love to show off our work and share what we’ve learned with other people, so we reserve the right, with your permission, to display and link to your project as part of our portfolio and to write about it on websites, in magazine articles and in books.
@@ -93,7 +91,7 @@ We’re sure you understand how important it is as a small business that you pay
 
 All invoices are due when you get them. As a courtesy they say 10 days, which should let you get a cheque in the mail to us in time if you choose to send mail. After those 10 days late fees are charged, which is kind of like getting marks off for late homework but with money which sucks more. Any late fees will be paid in full before the account is settled and code is released.
 
-Payments are only considered made when any money has cleared in to our accounts (15 days for international cheques) which means online payment is the fastest and preferred method (though a carrier pigeon would be a cool delivery method). Our automated gold plated robot billing system (they are shiny trust me) makes it easy for you to pay online by just clicking a link.
+Payments are only considered made when any money has cleared in to our accounts.
 
 ### But where’s all the horrible small print? 
 
